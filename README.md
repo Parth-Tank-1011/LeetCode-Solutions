@@ -20,7 +20,7 @@ Example:
 217_Contains_Duplicate.py
 
 ## Progress
-Current Problems Solved: 7+
+Current Problems Solved: 10+
 
 ---
 Maintained by Parth Tank
